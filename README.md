@@ -1,1 +1,1 @@
-"task2" 
+"This repository is for difference between document and window object"
